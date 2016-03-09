@@ -1,2 +1,2 @@
-# Marxism
+# Marksism
 MergeSort analysis
