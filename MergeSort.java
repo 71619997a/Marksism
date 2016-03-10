@@ -20,7 +20,7 @@ public class MergeSort
      * Postcond: Input arrays unchanged, and 
      * output array sorted in ascending order.
      ******************************************************/
-    private static int[] merge( int[] a, int[] b ) 
+    private static int[] merge( int[] a, int[] b )
     {
         int aN = 0;
         int bN = 0;
@@ -141,5 +141,5 @@ public class MergeSort
         printArray( sort( arr5 ) );
         printArray( sort( arr6 ) );
         printArray( sort( arr7 ) );
-    }//end main()
-}//end class MergeSort
+    }
+}
